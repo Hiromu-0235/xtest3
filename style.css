@@ -1,0 +1,35 @@
+.container{
+    background-color: #6A4021;
+    width: 1000px;
+    height: 300px;
+    display: flex;
+}
+
+.box1{
+    background-color: #573F2E;
+    width: 300px;
+    height: 300px;
+}
+.box2{
+    background-color: #3E2D21;
+    width: 700px;
+    height: 300px;
+}
+
+.content{
+    background-color: #3E2D21;
+    width: 1000px;
+    height: 700px;
+    display: flex;
+}
+
+.box3{
+    background-color: #FAEDED;
+    width: 300px;
+    height: 700px;
+}
+.box4{
+    background-color: #6A4021;
+    width: 700px;
+    height: 490px;
+}
